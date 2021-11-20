@@ -1,3 +1,3 @@
 # 📊elasticsearch, kibana
 
-- elasticsearch, kibana를 사용하여 만든 것들을 올리는 곳!
+- elasticsearch, kibana를 사용하여 웹페이지에 차트 출력해보기
